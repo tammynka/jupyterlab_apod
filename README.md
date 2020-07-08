@@ -13,7 +13,7 @@ Show a random NASA Astronomy Picture of the Day in a JupyterLab panel
 ## Install
 
 ```bash
-jupyter labextension install jupyterlab-apod
+jupyter labextension install @tammyk/jupyterlab-apod
 ```
 
 ## Contributing
@@ -55,5 +55,5 @@ Now every change will be built locally and bundled into JupyterLab. Be sure to r
 
 ```bash
 
-jupyter labextension uninstall jupyterlab-apod
+jupyter labextension uninstall @tammyk/jupyterlab-apod
 ```
